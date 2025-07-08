@@ -1,9 +1,3 @@
-<h1 align="center">
-    <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
-    <br>
-    Clash Dashboard
-    <br>
-</h1>
 
 <h4 align="center">Web Dashboard for Clash, now host on ClashX</h4>
 
